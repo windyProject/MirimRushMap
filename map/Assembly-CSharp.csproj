@@ -84,6 +84,7 @@
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\SimpleTrigger.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Platformer\EmitParticlesOnLand.cs" />
     <Compile Include="Assets\Script\Car.cs" />
+    <Compile Include="Assets\Script\CountDown.cs" />
     <Compile Include="Assets\Script\KeyBoard.cs" />
     <Compile Include="Assets\Script\MoveDoor1.cs" />
     <Compile Include="Assets\Script\MoveDoor2.cs" />
