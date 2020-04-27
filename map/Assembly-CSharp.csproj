@@ -84,6 +84,7 @@
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\SimpleTrigger.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Platformer\EmitParticlesOnLand.cs" />
     <Compile Include="Assets\Script\Car.cs" />
+    <Compile Include="Assets\Script\KeyBoard.cs" />
     <Compile Include="Assets\Script\MoveDoor1.cs" />
     <Compile Include="Assets\Script\MoveDoor2.cs" />
     <Compile Include="Assets\Script\OpenDoor.cs" />
@@ -113,100 +114,100 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="MacBLAS">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/MacBLAS.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/MacBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Connect.Share.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Barracuda-editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Barracuda-editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Barracuda-editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Barracuda">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Barracuda.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Barracuda.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="iOSBLAS">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/iOSBLAS.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/iOSBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="BurstBLAS">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/BurstBLAS.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/BurstBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.InteractiveTutorialsFramework">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -386,25 +387,25 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-      <HintPath>C:/Users/reum1/Desktop/MirimRush-master/map/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+      <HintPath>D:/git/MirimRushMap_git/MirimRushMap/map/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
