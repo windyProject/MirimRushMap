@@ -27,6 +27,11 @@ public class KeyBoard : MonoBehaviour
         }
     }
 
+    public void EnterFunction()
+    {
+        Debug.Log("Enter");
+    }
+
     // Start is called before the first frame update
     void Start()
     {

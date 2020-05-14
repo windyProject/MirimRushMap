@@ -66,16 +66,16 @@
     <Compile Include="Assets\Karting\Scripts\AI\Editor\DebugCheckpointRayEditor.cs" />
     <None Include="Assets\Karting\Scripts\AI\Editor\KartGame.AI.Editor.asmdef" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -263,74 +263,80 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.OSXStandalone.Extensions">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.153">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.153.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.153.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.153">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.153.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.153.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.153">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.153.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.153.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.153">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.153.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.external-dependency-manager@1.2.153/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.153.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Editor">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Editor/Firebase.Editor.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Editor/Firebase.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.App">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.App.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.App.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Platform">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.TaskExtension">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
     </Reference>
     <Reference Include="Google.MiniJson">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Firebase/Plugins/Google.MiniJson.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Compat">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.app@6.14.0/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.app@6.14.0/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Auth">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.auth@6.14.0/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.auth@6.14.0/Firebase/Plugins/Firebase.Auth.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Database">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.google.firebase.database@6.14.0/Firebase/Plugins/Firebase.Database.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.google.firebase.database@6.14.0/Firebase/Plugins/Firebase.Database.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/reum1/Desktop/MirimRushMap-master/map/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/git/ITshow/MirimRushMap/map/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
