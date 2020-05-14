@@ -1,14 +1,12 @@
 fileFormatVersion: 2
-guid: 81e43a9734ee4e3d8d85776f1b564bd3
+guid: 13e42e073e44c0444922264f586154c9
 labels:
 - gumpr_registries
 - gvh
-- gvh_version-1.2.152
 - gvh_version-6.14.0
 - gvhp_exportpath-ExternalDependencyManager/Editor/GoogleRegistries.xml
-timeCreated: 1583806049
-licenseType: Pro
 TextScriptImporter:
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
